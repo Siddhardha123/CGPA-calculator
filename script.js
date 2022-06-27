@@ -21,7 +21,8 @@ varl3.addEventListener("click", function () {
 varl.addEventListener("click", add);
 varl4.addEventListener("click",calc);
 //remove sub
-//add a new sub to the html and increase count.
+//add a new sub to the html and increase count .
+//..
 function add() {
      count += 1;
      let newelement = document.createElement('div')
